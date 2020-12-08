@@ -1,0 +1,12 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª¾±—
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(ŠÿÎÛûÿÿÿÿ
+`squid:S2184*"DCast one of the operands of this subtraction operation to a "float".(îÛ­¸øÿÿÿÿ
+]squid:S2184""ACast one of the operands of this division operation to a "float".(ƒú Çøÿÿÿÿ
+bsquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(¶¿Þ¹
+`squid:S2184*"DCast one of the operands of this subtraction operation to a "float".(îÛ­¸øÿÿÿÿ
+]squid:S2184*"ACast one of the operands of this addition operation to a "float".(îÛ­¸øÿÿÿÿ
+]squid:S2184""ACast one of the operands of this division operation to a "float".(ƒú Çøÿÿÿÿ
+]squid:S2184*"ACast one of the operands of this addition operation to a "float".(îÛ­¸øÿÿÿÿ
+]squid:S2184""ACast one of the operands of this division operation to a "float".(ƒú Çøÿÿÿÿ
+]squid:S2184""ACast one of the operands of this division operation to a "float".(ƒú Çøÿÿÿÿ

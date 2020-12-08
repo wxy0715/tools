@@ -1,0 +1,33 @@
+
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(øŒ¼Æ
+Lsquid:S2209)"5Change this instance-reference to a static reference.(Ñïœë
+O
+squid:S106+"9Replace this use of System.out or System.err by a logger.(øŒ¼Æ
+Qsquid:S22099"5Change this instance-reference to a static reference.(ÛêÈ“ûÿÿÿÿ
+O
+squid:S106:"9Replace this use of System.out or System.err by a logger.(øŒ¼Æ
+`squid:CallToDeprecatedMethodK"8Remove this use of "readFileToString"; it is deprecated.(°‹»¯
+Xsquid:S1075K"ARefactor your code to get this URI from a customizable parameter.(°‹»¯
+O
+squid:S106P"9Replace this use of System.out or System.err by a logger.(øŒ¼Æ
+—%squid:RedundantThrowsDeclarationCheckT"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(—Âòäúÿÿÿÿ
+O
+squid:S106n"9Replace this use of System.out or System.err by a logger.(ÔÃ¥ó
+Qsquid:S2209~"5Change this instance-reference to a static reference.(Ô—Ÿşÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÔÃ¥ó
+Msquid:S2209"5Change this instance-reference to a static reference.(ó¸É
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(µˆœÑ
+%squid:RedundantThrowsDeclarationCheck¢"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(§é­¸
+bsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(öÓƒ¬
+bsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(‹Õ³ã
+bsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(¾ÆãÍ
+gsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(Ö‡¡´şÿÿÿÿ
+asquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(¦
+bsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(ø¾ÌÂ
+gsquid:CommentedOutCodeLineN"<This block of commented-out lines of code should be removed.(îæÙşÿÿÿÿ
+bsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(¢«È
+csquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(Ì“ıê

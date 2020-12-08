@@ -1,0 +1,11 @@
+
+•
+AXOb1BEna6Zs0lTTNkBcsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(å€ÄÏ8ĞªÏŞ¹.
+~
+AXOb1BEna6Zs0lTTNkBesquid:UselessImportCheck"=Remove this unused import 'com.google.zxing.WriterException'.(˜ÿß8ĞªÏŞ¹.
+v
+AXOb1BEna6Zs0lTTNkBdsquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ĞªÏŞ¹.
+
+AXOb1BEna6Zs0lTTNkBbsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª¾±—8ĞªÏŞ¹.
+z
+AXOb1BEna6Zs0lTTNkBfsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(¨º¾‰ıÿÿÿÿ8ĞªÏŞ¹.

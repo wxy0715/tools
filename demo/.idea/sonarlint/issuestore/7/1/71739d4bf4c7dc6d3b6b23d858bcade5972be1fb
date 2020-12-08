@@ -1,0 +1,25 @@
+
+ijavascript:S2259¦"GTypeError can be thrown as "startNode" might be null or undefined here.(ÿÖÄúÿÿÿÿ
+=javascript:S1442–" Remove this usage of alert(...).(Ì·Ø
+Bjavascript:S1442Ñ" Remove this usage of alert(...).(í¾úËüÿÿÿÿ
+=javascript:S1442×" Remove this usage of alert(...).(Ö¯Ç
+=javascript:S1442İ" Remove this usage of alert(...).(Àø¢«
+=javascript:S1442ã" Remove this usage of alert(...).(Âƒ…¹
+=javascript:S1442¿" Remove this usage of alert(...).(Ì·Ø
+Bjavascript:S1442ë" Remove this usage of alert(...).(İ†ççùÿÿÿÿ
+gjavascript:S2814±"ERename "doc" as this name is already used in declaration at line 176.(ìëğ¦ùÿÿÿÿ
+ajavascript:S2814À"DRename "el" as this name is already used in declaration at line 827.(º·‹Ç
+cjavascript:S2814Å	"FRename "val" as this name is already used in declaration at line 1218.(àñÏª
+ejavascript:S2814À"HRename "rangeB" as this name is already used in declaration at line 437.(àäÆ
+hjavascript:S2814§"KRename "startNode" as this name is already used in declaration at line 262.(Ì–õß
+jjavascript:S2814¼"HRename "rangeA" as this name is already used in declaration at line 437.(à´¢øÿÿÿÿ
+gjavascript:S2814¬"ERename "doc" as this name is already used in declaration at line 171.(ìëğ¦ùÿÿÿÿ
+bjavascript:S2814ø"ERename "arr" as this name is already used in declaration at line 878.(±¦©å
+hjavascript:S2814¸"KRename "rangeNode" as this name is already used in declaration at line 692.(îòı¡
+hjavascript:S2814»"KRename "rangeNode" as this name is already used in declaration at line 692.(¿Üß‹
+hjavascript:S2814ÿ"KRename "cloneNode" as this name is already used in declaration at line 630.(ÌÄÅµ
+>javascript:S1116æ"Remove this empty statement.(ôŸìúÿÿÿÿ
+_javascript:UnusedVariableÊ"4Remove the declaration of the unused 'obj' variable.(†Æ¥Ÿúÿÿÿÿ
+fjavascript:UnusedVariable‡";Remove the declaration of the unused 'endElement' variable.(İÅ‡ûÿÿÿÿ
+Xjavascript:S1854Ê"6Remove this useless assignment to local variable "obj"(†Æ¥Ÿúÿÿÿÿ
+cjavascript:S1126»"AReplace this if-then-else statement by a single return statement.(®Ÿ–£ûÿÿÿÿ

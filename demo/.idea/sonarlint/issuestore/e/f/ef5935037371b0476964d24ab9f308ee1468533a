@@ -1,0 +1,10 @@
+
+\squid:S3752'">Add a "method" parameter to this "@RequestMapping" annotation.(­ãÃø8œ®ïƒº.
+psquid:S2441-"MMake "List" and its parameters serializable or don't store it in the session.(Ã›ô°úÿÿÿÿ8œ®ïƒº.
+esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¤ÍëÀ8œ®ïƒº.
+¤%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¤ÍëÀ8ëã¤…º.
+psquid:S2441"MMake "List" and its parameters serializable or don't store it in the session.(Ã›ô°úÿÿÿÿ8œ®ïƒº.
+©%squid:RedundantThrowsDeclarationCheck)"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(š´¦’ùÿÿÿÿ8ëã¤…º.
+jsquid:S00112)"FDefine and throw a dedicated exception instead of using a generic one.(š´¦’ùÿÿÿÿ8œ®ïƒº.
+\squid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(ô¸èÉ8œ®ïƒº.
+_squid:S1126!"AReplace this if-then-else statement by a single return statement.(á”ŠÓ8œ®ïƒº.

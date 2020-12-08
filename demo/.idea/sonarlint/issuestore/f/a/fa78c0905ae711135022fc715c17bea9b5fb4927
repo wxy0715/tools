@@ -1,0 +1,13 @@
+
+
+AXOb1BDYa6Zs0lTTNkAXsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Á½àÞ8ÐªÏÞ¹.
+\
+AXOb1BDYa6Zs0lTTNkARsquid:S11487"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÐªÏÞ¹.
+c
+AXOb1BDYa6Zs0lTTNkAWsquid:S2093&"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ÐªÏÞ¹.
+x
+AXOb1BDYa6Zs0lTTNkAQsquid:S2095#"DUse try-with-resources or close this "Socket" in a "finally" clause.(ø×†é8ÐªÏÞ¹.
+\
+AXOb1BDYa6Zs0lTTNkASsquid:S1148B"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÐªÏÞ¹.
+n
+AXOb1BDYa6Zs0lTTNkATsquid:S1118":Add a private constructor to hide the implicit public one.(ñ·ÍŸ8ÐªÏÞ¹.

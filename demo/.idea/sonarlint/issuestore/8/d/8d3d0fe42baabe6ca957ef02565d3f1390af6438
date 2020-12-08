@@ -1,0 +1,8 @@
+
+msquid:S2095G"QUse try-with-resources or close this "SequenceInputStream" in a "finally" clause.(øö³øÿÿÿÿ
+jsquid:S2095J"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(˜äíèıÿÿÿÿ
+Xsquid:S1075-"ARefactor your code to get this URI from a customizable parameter.(í‘Ü‚
+©%squid:RedundantThrowsDeclarationCheck1"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(‚ø—È
+]squid:S10753"ARefactor your code to get this URI from a customizable parameter.(˜á©Éÿÿÿÿÿ
+Fsquid:S1172:"/Remove this unused method parameter "splitDir".(Ãş‚”
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Íõ°›

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hotel.mapper.RoomInfoMapper">
+
+	<!-- 描述一对多的关系-->
+	<resultMap type="com.hotel.entity.InRoomInfo" id="RoomInfo">
+		<id column="id" property="id" jdbcType="BIGINT" />
+		<result column="customer_name" property="customer_name" jdbcType="VARCHAR" />
+		<result column="gender" property="gender" jdbcType="VARCHAR" />
+		<result column="is_vip" property="is_vip" jdbcType="VARCHAR" />
+		<result column="idcard" property="idcard" jdbcType="VARCHAR" />
+		<result column="phone" property="phone" jdbcType="VARCHAR" />
+		<result column="money" property="money" jdbcType="VARCHAR" />
+		<result column="status" property="status" jdbcType="VARCHAR" />
+		<result column="create_date" property="create_date" jdbcType="VARCHAR" />
+		<result column="room_id" jdbcType="BIGINT" property="room_id"/>
+		<collection property="room_types" ofType="com.hotel.entity.Room_type">
+			<result column="id" jdbcType="BIGINT" property="id"/>
+			<result column="room_type_name" jdbcType="VARCHAR" property="room_type_name"/>
+			<result column="room_price" jdbcType="VARCHAR" property="room_price"/>
+		</collection>
+		<collection property="roomslist" ofType="com.hotel.entity.Rooms">
+			<result column="room_num" jdbcType="VARCHAR" property="room_num"/>
+			<result column="room_status" jdbcType="VARCHAR" property="room_status"/>
+			<result column="room_type_id" jdbcType="BIGINT" property="room_type_id"/>
+			<result column="id" jdbcType="BIGINT" property="id"/>
+		</collection>
+	</resultMap>
+	<!-- 获取system_authority中的所有菜单 -->
+	<select id="getRoomInfo" resultMap="RoomInfo">
+		SELECT iri.status,r.room_status,iri.is_vip,rt.room_price,r.room_status,iri.`id`, iri.room_id,r.`room_num`,rt.`room_type_name`,iri.`customer_name`,iri.`gender`,iri.`idcard`,
+		iri.`phone`,iri.`money`,iri.`create_date` FROM in_room_info iri INNER JOIN rooms r
+		ON iri.`room_id`=r.`id` INNER JOIN room_type rt
+		ON rt.`id`=r.`room_type_id`
+		WHERE 1
+		<if test="type==1">
+			AND (
+			room_num like CONCAT('%',#{name},'%')
+			or room_type_name like CONCAT('%',#{name},'%')
+			or customer_name like CONCAT('%',#{name},'%')
+			or idcard like CONCAT('%',#{name},'%')
+			or `phone` like CONCAT('%',#{name},'%')
+			or `money` like CONCAT('%',#{name},'%')
+			or create_date like CONCAT('%',#{name},'%')
+			)
+		</if>
+		<if test="type==2">AND `room_num` like CONCAT('%',#{name},'%')</if>
+		<if test="type==3">AND `customer_name` like CONCAT('%',#{name},'%')</if>
+		<if test="type==4">AND `phone` like CONCAT('%',#{name},'%')</if>
+		<if test="type==5">AND `idcard` like CONCAT('%',#{name},'%')</if>
+		<if test="type==6">AND `gender` like CONCAT('%',#{name},'%')</if>
+		<if test="type==7">AND `status` like CONCAT('%',#{name},'%')</if>
+		LIMIT #{page_start},#{page_length}
+	</select>
+
+	<!--添加住房信息-->
+	<insert id="insert" parameterType="com.hotel.entity.InRoomInfo">
+		INSERT INTO in_room_info
+		<set>
+			<if test="customer_name != null" >customer_name = #{customer_name,jdbcType=VARCHAR},</if>
+			<if test="gender != null" >gender = #{gender,jdbcType=VARCHAR},</if>
+			<if test="is_vip != null" >is_vip = #{is_vip,jdbcType=VARCHAR},</if>
+			<if test="idcard != null" >idcard = #{idcard,jdbcType=VARCHAR},</if>
+			<if test="phone != null" >phone = #{phone,jdbcType=VARCHAR},</if>
+			<if test="money != null" >money = #{money,jdbcType=VARCHAR},</if>
+			<if test="create_date != null" >create_date = #{create_date,jdbcType=VARCHAR},</if>
+			<if test="room_id != null" >room_id = #{room_id,jdbcType=BIGINT},</if>
+			<if test="status != null" >status = #{status,jdbcType=VARCHAR},</if>
+		</set>
+	</insert>
+	<!--编辑住房信息-->
+	<update id="edit" parameterType="com.hotel.entity.InRoomInfo">
+		update in_room_info
+		<set>
+			<if test="customer_name != null" >customer_name = #{customer_name,jdbcType=VARCHAR},</if>
+			<if test="gender != null" >gender = #{gender,jdbcType=VARCHAR},</if>
+			<if test="is_vip != null" >is_vip = #{is_vip,jdbcType=VARCHAR},</if>
+			<if test="idcard != null" >idcard = #{idcard,jdbcType=VARCHAR},</if>
+			<if test="phone != null" >phone = #{phone,jdbcType=VARCHAR},</if>
+			<if test="money != null" >money = #{money,jdbcType=VARCHAR},</if>
+			<if test="create_date != null" >create_date = #{create_date,jdbcType=VARCHAR},</if>
+			<if test="room_id != null" >room_id = #{room_id,jdbcType=BIGINT},</if>
+			<if test="status != null" >status = #{status,jdbcType=VARCHAR},</if>
+		</set>
+		where id = #{id}
+	</update>
+	<!--删除住房信息-->
+	<delete id="deleteByid" parameterType="com.hotel.entity.InRoomInfo">
+		delete from  in_room_info where id=#{id}
+	</delete>
+	<!--查询空余的房间号-->
+	<select id="selectEmpty" resultMap="EmptyRoom">
+		SELECT r.id,r.`room_num`,rt.`room_type_name` FROM  rooms r
+		INNER JOIN room_type rt
+		ON rt.`id`=r.`room_type_id`
+		WHERE r.`room_status`=0
+		ORDER BY room_num ASC
+	</select>
+	<resultMap type="com.hotel.entity.InRoomInfo" id="EmptyRoom">
+		<collection property="room_types" ofType="com.hotel.entity.Room_type">
+			<result column="room_type_name" jdbcType="VARCHAR" property="room_type_name"/>
+		</collection>
+		<collection property="roomslist" ofType="com.hotel.entity.Rooms">
+		<result column="room_num" jdbcType="VARCHAR" property="room_num"/>
+		<result column="id" jdbcType="BIGINT" property="id"/>
+		</collection>
+	</resultMap>
+</mapper>

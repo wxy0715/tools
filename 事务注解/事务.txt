@@ -1,0 +1,6 @@
+<!-- 配置事务 -->
+       <bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+			<property name="dataSource" ref="basicDataSource" />
+		</bean>
+		<!-- 事务注解驱动 -->
+		<tx:annotation-driven transaction-manager="transactionManager" proxy-target-class="true"/>

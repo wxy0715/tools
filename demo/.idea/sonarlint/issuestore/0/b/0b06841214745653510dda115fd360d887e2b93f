@@ -1,0 +1,19 @@
+
+@squid:S1148À"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+jsquid:S00117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æöº
+?squid:S1148D"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Jsquid:S1135ù"2Complete the task associated to this TODO comment.(Ï³Ä…
+msquid:S2095U"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(‘ÁÄĞüÿÿÿÿ
+osquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÊçùÿÿÿÿ
+@squid:S1148Ë"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+psquid:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(±ãš„
+Psquid:S2864>"4Iterate over the "entrySet" instead of the "keySet".(±â‰—úÿÿÿÿ
+?squid:S1148g"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148ñ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Jsquid:S1135—"2Complete the task associated to this TODO comment.(’äÃ
+osquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÊçùÿÿÿÿ
+nsquid:S2095¹"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(‘ÁÄĞüÿÿÿÿ
+jsquid:S00117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æöº
+?squid:S1148\"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148æ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Jsquid:S1135"2Complete the task associated to this TODO comment.(’äÃ

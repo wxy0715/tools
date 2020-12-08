@@ -1,0 +1,60 @@
+
+ksquid:S1192"ODefine a constant instead of duplicating this literal "reflect.Person" 3 times.(»§™æúÿÿÿÿ
+]squid:S2259%"FA "NullPointerException" could be thrown; "perClazz" is nullable here.(‡Àêå
+]squid:S2259N"FA "NullPointerException" could be thrown; "perClazz" is nullable here.(†½ª
+]squid:S2259"FA "NullPointerException" could be thrown; "perClazz" is nullable here.(‡Àêå
+]squid:S2259t"FA "NullPointerException" could be thrown; "perClazz" is nullable here.(ûŞ ×
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148""#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148?"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148q"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(íö—ïÿÿÿÿÿ
+—%squid:RedundantThrowsDeclarationCheck"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(±©§„
+%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(±©§„
+O
+squid:S106+"9Replace this use of System.out or System.err by a logger.(½ˆ§©
+N
+squid:S106-"9Replace this use of System.out or System.err by a logger.(›¹à%
+¨%squid:RedundantThrowsDeclarationCheck:"wRemove the declaration of thrown exception 'java.lang.NoSuchFieldException', as it cannot be thrown from method's body.(êè‹Ô
+—%squid:RedundantThrowsDeclarationCheck:"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(êè‹Ô
+%squid:RedundantThrowsDeclarationCheck:"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(êè‹Ô
+T
+squid:S106O"9Replace this use of System.out or System.err by a logger.(íÙÙ³ùÿÿÿÿ
+T
+squid:S106R"9Replace this use of System.out or System.err by a logger.(íÍ–Œüÿÿÿÿ
+O
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(â¾¶€
+O
+squid:S106\"9Replace this use of System.out or System.err by a logger.(¶Ä¯á
+T
+squid:S106a"9Replace this use of System.out or System.err by a logger.(ÍÎÆ¥ùÿÿÿÿ
+­%squid:RedundantThrowsDeclarationChecke"wRemove the declaration of thrown exception 'java.lang.NoSuchFieldException', as it cannot be thrown from method's body.(Ç·Ğşÿÿÿÿ
+œ%squid:RedundantThrowsDeclarationChecke"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(Ç·Ğşÿÿÿÿ
+£%squid:RedundantThrowsDeclarationChecke"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(Ç·Ğşÿÿÿÿ
+®%squid:RedundantThrowsDeclarationChecke"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(Ç·Ğşÿÿÿÿ
+—%squid:RedundantThrowsDeclarationCheck{"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(¢³ñÉ
+%squid:RedundantThrowsDeclarationCheck{"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(¢³ñÉ
+ª%squid:RedundantThrowsDeclarationCheck{"yRemove the declaration of thrown exception 'java.lang.InstantiationException', as it cannot be thrown from method's body.(¢³ñÉ
+U
+squid:S106…"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+˜%squid:RedundantThrowsDeclarationCheckˆ"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(Úç¼£
+Ÿ%squid:RedundantThrowsDeclarationCheckˆ"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(Úç¼£
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(íö—ïÿÿÿÿÿ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬İêÿÿÿÿÿ
+ª%squid:RedundantThrowsDeclarationCheck“"yRemove the declaration of thrown exception 'java.lang.InstantiationException', as it cannot be thrown from method's body.(ÍëÆo
+—%squid:RedundantThrowsDeclarationCheck“"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(ÍëÆo
+©%squid:RedundantThrowsDeclarationCheck“"xRemove the declaration of thrown exception 'java.lang.NoSuchMethodException', as it cannot be thrown from method's body.(ÍëÆo
+%squid:RedundantThrowsDeclarationCheck“"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ÍëÆo
+¶%squid:RedundantThrowsDeclarationCheck“"„Remove the declaration of thrown exception 'java.lang.reflect.InvocationTargetException', as it cannot be thrown from method's body.(ÍëÆo
+©%squid:RedundantThrowsDeclarationCheck“"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(ÍëÆo
+%squid:RedundantThrowsDeclarationCheck“"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÍëÆo
+bsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(­€ƒ
+gsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(ŞÔ‘Œÿÿÿÿÿ
+asquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(ù¸½h
+asquid:CommentedOutCodeLineH"<This block of commented-out lines of code should be removed.(ù¸½h
+bsquid:CommentedOutCodeLineS"<This block of commented-out lines of code should be removed.(Ï“
+csquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(ˆ™ğÁ
+csquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(Ì“ıê

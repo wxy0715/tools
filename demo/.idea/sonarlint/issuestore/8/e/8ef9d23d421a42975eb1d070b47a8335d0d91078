@@ -1,0 +1,4 @@
+
+Isquid:S2755"-Disable XML external entity (XXE) processing.(ÕŒ°žüÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(¨†‚éþÿÿÿÿ
+®%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(öí·¡ýÿÿÿÿ

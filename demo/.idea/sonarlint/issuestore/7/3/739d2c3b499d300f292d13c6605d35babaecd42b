@@ -1,0 +1,8 @@
+
+dsquid:S2095@"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(×ó
+esquid:S2095F"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ú—ãÎ
+Xsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(Æü˜£
+Xsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(»®—¶
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ÿß²ôüÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(˜Óï¥
+bsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(„ıü¯

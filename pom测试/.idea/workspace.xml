@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f72cbbd8-ec76-4f8f-8177-e2b4cd8f38b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/license.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pom测试/PomTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pom测试/PomTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pom测试/PomTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pom测试/PomTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/CodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/CodeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/PomTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/PomTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/PomTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/PomTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../人脸识别" beforeDir="false" afterPath="$PROJECT_DIR$/../人脸识别" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Y9LsGg7NmJBIQngllBJIRfNcZ1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\wxySvn\常用工具\pom测试\lib" />
+      <recent name="E:\wxySvn\王星宇\常用工具\pom测试\test" />
+      <recent name="E:\后端笔记\ssm模板\pom测试\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PomTest">
+    <configuration name="PomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PomTest" />
+      <module name="pom测试" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PomTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PomTest1" />
+      <module name="pom测试" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PomTest" />
+        <item itemvalue="Application.PomTest1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f72cbbd8-ec76-4f8f-8177-e2b4cd8f38b7" name="Default Changelist" comment="" />
+      <created>1582350068547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582350068547</updated>
+      <workItem from="1582350071303" duration="1069000" />
+      <workItem from="1586780069866" duration="844000" />
+      <workItem from="1586855021632" duration="528000" />
+      <workItem from="1597796873184" duration="1000" />
+      <workItem from="1597796889871" duration="16000" />
+      <workItem from="1607399503168" duration="516000" />
+      <workItem from="1607400638563" duration="152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="92" key="#Project_Structure" timestamp="1607399828569">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="92" key="#Project_Structure/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1607399828569" />
+    <state x="445" y="173" key="FileChooserDialogImpl" timestamp="1607399821417">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="445" y="173" key="FileChooserDialogImpl/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1607399821417" />
+    <state width="1493" height="255" key="GridCell.Tab.0.bottom" timestamp="1607400791880">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.0.bottom/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1607400791880" />
+    <state width="1493" height="255" key="GridCell.Tab.0.center" timestamp="1607400791880">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.0.center/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1607400791880" />
+    <state width="1493" height="255" key="GridCell.Tab.0.left" timestamp="1607400791879">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.0.left/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1607400791879" />
+    <state width="1493" height="255" key="GridCell.Tab.0.right" timestamp="1607400791880">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.0.right/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1607400791880" />
+    <state width="1493" height="255" key="GridCell.Tab.1.bottom" timestamp="1607400791880">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.1.bottom/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1607400791880" />
+    <state width="1493" height="255" key="GridCell.Tab.1.center" timestamp="1607400791880">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.1.center/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1607400791880" />
+    <state width="1493" height="255" key="GridCell.Tab.1.left" timestamp="1607400791880">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.1.left/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1607400791880" />
+    <state width="1493" height="255" key="GridCell.Tab.1.right" timestamp="1607400791880">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.1.right/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1607400791880" />
+  </component>
+  <component name="ideajad">
+    <property name="annotate" value="false" />
+    <property name="annotateFully" value="false" />
+    <property name="braces" value="false" />
+    <property name="clear" value="false" />
+    <property name="confirmNavigationTriggeredDecompile" value="true" />
+    <property name="dead" value="true" />
+    <property name="defaultInitializers" value="false" />
+    <property name="dissassemblerOnly" value="false" />
+    <property name="fieldsFirst" value="true" />
+    <property name="fileExtension" value="java" />
+    <property name="fullyQualifiedNames" value="false" />
+    <property name="indentation" value="4" />
+    <property name="intRadix" value="10" />
+    <property name="lineNumbersAsComments" value="true" />
+    <property name="longRadix" value="10" />
+    <property name="maxStringLength" value="64" />
+    <property name="nocast" value="false" />
+    <property name="noclass" value="false" />
+    <property name="nocode" value="false" />
+    <property name="noconv" value="false" />
+    <property name="noctor" value="false" />
+    <property name="nodos" value="false" />
+    <property name="nofd" value="false" />
+    <property name="noinner" value="false" />
+    <property name="nolvt" value="false" />
+    <property name="nonlb" value="false" />
+    <property name="outputDirectory" value="" />
+    <property name="packFields" value="3" />
+    <property name="packImports" value="7" />
+    <property name="prefixNumericalClasses" value="_cls" />
+    <property name="prefixNumericalFields" value="_fld" />
+    <property name="prefixNumericalLocals" value="_lcl" />
+    <property name="prefixNumericalMethods" value="_mth" />
+    <property name="prefixNumericalParameters" value="_prm" />
+    <property name="prefixUnusedExceptions" value="_ex" />
+    <property name="readonly" value="false" />
+    <property name="safe" value="false" />
+    <property name="sort" value="false" />
+    <property name="spaceAfterKeyword" value="false" />
+    <property name="splitStringsAtNewline" value="false" />
+    <property name="useTabs" value="false" />
+  </component>
+</project>

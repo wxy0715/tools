@@ -1,0 +1,18 @@
+
+>squid:S2189*""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+>squid:S21898""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Lsquid:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+T
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(Ùµ“¼ıÿÿÿÿ
+]squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Psquid:S2274":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM
+Lsquid:S2446"0"notify" may not wake up the appropriate thread.(¤¤åüÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(«…í€ÿÿÿÿÿ
+]squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Psquid:S2274":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM
+bsquid:CommentedOutCodeLineQ"<This block of commented-out lines of code should be removed.(•ÂçÅ
+gsquid:CommentedOutCodeLineS"<This block of commented-out lines of code should be removed.(™ÿÓ¡ûÿÿÿÿ

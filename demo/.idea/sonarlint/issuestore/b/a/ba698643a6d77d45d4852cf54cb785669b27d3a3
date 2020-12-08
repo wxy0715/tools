@@ -1,0 +1,6 @@
+
+esquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Ã¼àž
+`squid:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(›Â¼—þÿÿÿÿ
+®%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(Ö»ä€ýÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿Ô¥Û

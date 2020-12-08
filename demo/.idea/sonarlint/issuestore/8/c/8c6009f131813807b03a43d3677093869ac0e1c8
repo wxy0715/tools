@@ -1,0 +1,18 @@
+
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(àòÍÀ8©¨—ïÍ.
+Rsquid:S2696C"6Make the enclosing method "static" or remove this set.(×®µÊıÿÿÿÿ
+?squid:S1148q"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Fsquid:S2093Y"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+bsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(¼Ö¦
+gsquid:CommentedOutCodeLinej"<This block of commented-out lines of code should be removed.(ößŸ¹úÿÿÿÿ
+>squid:S2189.""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+?squid:S1148*"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+`squid:S22598"DA "NullPointerException" could be thrown; "server" is nullable here.(êíšÇÿÿÿÿÿ
+?squid:S1148:"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148{"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+nsquid:S00117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó‘¹Ôıÿÿÿÿ
+Dsquid:S1068"-Remove this unused "isRunning" private field.(î®•õ
+fsquid:S2095'"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(Şƒ§Áüÿÿÿÿ
+8squid:S3010"!Remove this assignment of "port".(Å¢‡
+Rsquid:S2696-"6Make the enclosing method "static" or remove this set.(ãŞí“ıÿÿÿÿ

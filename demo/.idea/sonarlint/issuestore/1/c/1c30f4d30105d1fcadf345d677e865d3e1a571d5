@@ -1,0 +1,7 @@
+
+Wjavascript:UnusedVariable-"2Remove the declaration of the unused 'a' variable.(£ÃÅˆ
+Pjavascript:S1854-"4Remove this useless assignment to local variable "a"(£ÃÅˆ
+{javascript:S2703"_Add the "let", "const" or "var" keyword to this declaration of "gvChartID" to make it explicit.(æşé
+javascript:S2703D"cAdd the "let", "const" or "var" keyword to this declaration of "chartSettings" to make it explicit.(—¼ûª
+javascript:S2703"^Add the "let", "const" or "var" keyword to this declaration of "defaults" to make it explicit.(“‡‰×üÿÿÿÿ
+}javascript:S2703S"bAdd the "let", "const" or "var" keyword to this declaration of "gvChartCount" to make it explicit.(»®²

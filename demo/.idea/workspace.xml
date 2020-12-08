@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb53e4e7-aa39-4f0c-85f8-556447e5a915" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../人脸识别" beforeDir="false" afterPath="$PROJECT_DIR$/../人脸识别" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\apache-maven-3.5.4\repository" />
+        <option name="mavenHome" value="D:/开发工具/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\开发工具\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zmb77dU0J3LwRRqdQ36jlwvwUB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="MyBatisLogPluginparameters" value="Parameters:" />
+    <property name="MyBatisLogPluginpreparing" value="Preparing:" />
+    <property name="MyBatisLogPluginrunning" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/com/hotel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\wxySvn\王星宇\MyProject\demo\src\main\webapp\WEB-INF\lib" />
+      <recent name="E:\wxySvn\王星宇\MyProject\demo\src\main\webapp\WEB-INF" />
+      <recent name="E:\wxySvn\王星宇\MyProject\demo\src\main\webapp" />
+      <recent name="E:\wxySvn\王星宇\MyProject\demo\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hotel.utils.redis" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\wxySvn\王星宇\MyProject\demo\src\main\webapp\WEB-INF\lib" />
+      <recent name="E:\wxySvn\王星宇\MyProject\demo\src\main\java\com\hotel\utils\redis" />
+      <recent name="E:\wxySvn\王星宇\MyProject\demo\src\main\java\com\hotel\utils\rpc" />
+      <recent name="E:\wxySvn\王星宇\MyProject\demo\src\main\java\com\hotel\utils\socket1" />
+      <recent name="E:\wxySvn\王星宇\MyProject\demo\src\main\java\com\hotel\utils\socket" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MyClient">
+    <configuration name="MyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hotel.utils.socket.MyClient" />
+      <module name="hotel_manage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hotel.utils.socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hotel.utils.socket.MyServer" />
+      <module name="hotel_manage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hotel.utils.socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RPCClientTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hotel.utils.rpc.RPCClientTest" />
+      <module name="hotel_manage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hotel.utils.rpc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RPCServerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hotel.utils.rpc.RPCServerTest" />
+      <module name="hotel_manage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hotel.utils.rpc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hotel.utils.reflect.ReflectDemo01" />
+      <module name="hotel_manage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hotel.utils.reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hotel_manage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hotel.Application" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_WORKING_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ReflectDemo01" />
+      <item itemvalue="Application.MyServer" />
+      <item itemvalue="Application.MyClient" />
+      <item itemvalue="Application.RPCServerTest" />
+      <item itemvalue="Application.RPCClientTest" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyClient" />
+        <item itemvalue="Application.MyServer" />
+        <item itemvalue="Application.RPCClientTest" />
+        <item itemvalue="Application.RPCServerTest" />
+        <item itemvalue="Application.ReflectDemo01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb53e4e7-aa39-4f0c-85f8-556447e5a915" name="Default Changelist" comment="" />
+      <created>1585447045630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585447045630</updated>
+      <workItem from="1585447052894" duration="3266000" />
+      <workItem from="1585455687847" duration="66000" />
+      <workItem from="1585456053173" duration="126000" />
+      <workItem from="1585458974743" duration="894000" />
+      <workItem from="1585577570709" duration="2281000" />
+      <workItem from="1585579923527" duration="19000" />
+      <workItem from="1585667294172" duration="3211000" />
+      <workItem from="1585671536830" duration="280000" />
+      <workItem from="1585707988497" duration="48000" />
+      <workItem from="1586000360243" duration="15000" />
+      <workItem from="1586161110571" duration="59000" />
+      <workItem from="1586233871298" duration="119000" />
+      <workItem from="1586508911684" duration="199000" />
+      <workItem from="1586777018209" duration="6112000" />
+      <workItem from="1586853398052" duration="241000" />
+      <workItem from="1586854693843" duration="6530000" />
+      <workItem from="1586953168137" duration="780000" />
+      <workItem from="1587009234456" duration="7000" />
+      <workItem from="1587205825435" duration="4517000" />
+      <workItem from="1587212972906" duration="646000" />
+      <workItem from="1587287600035" duration="15000" />
+      <workItem from="1587437352805" duration="1494000" />
+      <workItem from="1587597383065" duration="4530000" />
+      <workItem from="1587795986258" duration="21000" />
+      <workItem from="1587796692232" duration="21000" />
+      <workItem from="1587796739406" duration="43000" />
+      <workItem from="1587796951037" duration="202000" />
+      <workItem from="1587891972947" duration="6898000" />
+      <workItem from="1587982294105" duration="38000" />
+      <workItem from="1587991742105" duration="2803000" />
+      <workItem from="1587994614507" duration="1130000" />
+      <workItem from="1588396684614" duration="102000" />
+      <workItem from="1590296243288" duration="1032000" />
+      <workItem from="1595658806992" duration="138000" />
+      <workItem from="1595660444623" duration="2848000" />
+      <workItem from="1596012942675" duration="43000" />
+      <workItem from="1596036455800" duration="2480000" />
+      <workItem from="1596039405405" duration="2441000" />
+      <workItem from="1596041948151" duration="6058000" />
+      <workItem from="1596048105717" duration="12000" />
+      <workItem from="1596120395309" duration="2776000" />
+      <workItem from="1596124116810" duration="3817000" />
+      <workItem from="1596128074250" duration="650000" />
+      <workItem from="1596128767730" duration="1013000" />
+      <workItem from="1596166565767" duration="1006000" />
+      <workItem from="1596244344463" duration="1184000" />
+      <workItem from="1596283981719" duration="27000" />
+      <workItem from="1596285655598" duration="946000" />
+      <workItem from="1598504018127" duration="87000" />
+      <workItem from="1598870808684" duration="17000" />
+      <workItem from="1600249323067" duration="287000" />
+      <workItem from="1600250122105" duration="2532000" />
+      <workItem from="1600260740412" duration="1063000" />
+      <workItem from="1600262219117" duration="11000" />
+      <workItem from="1600417723065" duration="2905000" />
+      <workItem from="1600421935521" duration="1313000" />
+      <workItem from="1600432193862" duration="4395000" />
+      <workItem from="1600440585888" duration="12000" />
+      <workItem from="1600488107856" duration="883000" />
+      <workItem from="1600739438335" duration="28000" />
+      <workItem from="1600855633114" duration="1136000" />
+      <workItem from="1600862330296" duration="2310000" />
+      <workItem from="1601203977567" duration="19000" />
+      <workItem from="1601450516018" duration="255000" />
+      <workItem from="1603164850336" duration="380000" />
+      <workItem from="1606787088271" duration="403000" />
+      <workItem from="1607399391393" duration="68000" />
+    </task>
+    <task id="LOCAL-00001" summary="代码质量">
+      <created>1596047188005</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596047188005</updated>
+    </task>
+    <task id="LOCAL-00002" summary="代码质量">
+      <created>1600251823903</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600251823904</updated>
+    </task>
+    <task id="LOCAL-00003" summary="代码质量">
+      <created>1600252367902</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600252367902</updated>
+    </task>
+    <task id="LOCAL-00004" summary="代码质量">
+      <created>1600420539998</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600420539998</updated>
+    </task>
+    <task id="LOCAL-00005" summary="代码质量">
+      <created>1600423184485</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600423184486</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="验证码" />
+    <MESSAGE value="代码质量" />
+    <option name="LAST_COMMIT_MESSAGE" value="代码质量" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="70" key="#HTTP_Proxy" timestamp="1596042564048">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="70" key="#HTTP_Proxy/0.0.1536.824@0.0.1536.824" timestamp="1596042564048" />
+    <state x="361" y="70" key="#Project_Structure" timestamp="1596126717389">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1596126717389" />
+    <state x="285" y="59" width="1164" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596128237840">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="285" y="59" width="1164" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1596128237840" />
+    <state x="535" y="195" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1596128214627">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="535" y="195" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1596128214627" />
+    <state x="511" y="257" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1596128361047">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="257" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1596128361047" />
+    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1600423183362">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600423183362" />
+    <state width="408" height="438" key="DebuggerActiveHint" timestamp="1600251628881">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="408" height="438" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1600251628881" />
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1596124192626">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596124192626" />
+    <state width="1493" height="290" key="GridCell.Tab.0.bottom" timestamp="1601450778594">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="290" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601450778594" />
+    <state width="1493" height="290" key="GridCell.Tab.0.center" timestamp="1601450778594">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="290" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601450778594" />
+    <state width="1493" height="290" key="GridCell.Tab.0.left" timestamp="1601450778594">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="290" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601450778594" />
+    <state width="1493" height="290" key="GridCell.Tab.0.right" timestamp="1601450778594">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="290" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601450778594" />
+    <state width="1493" height="290" key="GridCell.Tab.1.bottom" timestamp="1601450778595">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="290" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601450778595" />
+    <state width="1493" height="290" key="GridCell.Tab.1.center" timestamp="1601450778594">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="290" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601450778594" />
+    <state width="1493" height="290" key="GridCell.Tab.1.left" timestamp="1601450778594">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="290" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601450778594" />
+    <state width="1493" height="290" key="GridCell.Tab.1.right" timestamp="1601450778594">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="290" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601450778594" />
+    <state width="1493" height="217" key="GridCell.Tab.2.bottom" timestamp="1596163428260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="217" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596163428260" />
+    <state width="1493" height="217" key="GridCell.Tab.2.center" timestamp="1596163428260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="217" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1596163428260" />
+    <state width="1493" height="217" key="GridCell.Tab.2.left" timestamp="1596163428259">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="217" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1596163428259" />
+    <state width="1493" height="217" key="GridCell.Tab.2.right" timestamp="1596163428260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="217" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1596163428260" />
+    <state x="349" y="253" key="MavenRunHelper.GoalEditor" timestamp="1596038464174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="253" key="MavenRunHelper.GoalEditor/0.0.1536.824@0.0.1536.824" timestamp="1596038464174" />
+    <state x="408" y="109" key="NewModule_or_Project.wizard" timestamp="1596124172605">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="109" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1596124172605" />
+    <state x="349" y="74" key="Registry" timestamp="1596126426263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="74" key="Registry/0.0.1536.824@0.0.1536.824" timestamp="1596126426263" />
+    <state x="305" y="0" key="SettingsEditor" timestamp="1600251132628">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="305" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600251132628" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600423197401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600423197401" />
+    <state x="377" y="112" width="782" height="600" key="find.popup" timestamp="1601203994554">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="377" y="112" width="782" height="600" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1601203994554" />
+    <state x="231" y="166" key="org.sonarlint.intellij.config.global.wizard.SQServerWizard$SonarQubeWizard" timestamp="1596043948707">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="231" y="166" key="org.sonarlint.intellij.config.global.wizard.SQServerWizard$SonarQubeWizard/0.0.1536.824@0.0.1536.824" timestamp="1596043948707" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/demo$MyClient__1_.ic" NAME="MyClient (1) Coverage Results" MODIFIED="1587209311579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.hotel.utils.socket1.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="ideajad">
+    <property name="annotate" value="false" />
+    <property name="annotateFully" value="false" />
+    <property name="braces" value="false" />
+    <property name="clear" value="false" />
+    <property name="confirmNavigationTriggeredDecompile" value="true" />
+    <property name="dead" value="true" />
+    <property name="defaultInitializers" value="false" />
+    <property name="dissassemblerOnly" value="false" />
+    <property name="fieldsFirst" value="true" />
+    <property name="fileExtension" value="java" />
+    <property name="fullyQualifiedNames" value="false" />
+    <property name="indentation" value="4" />
+    <property name="intRadix" value="10" />
+    <property name="lineNumbersAsComments" value="true" />
+    <property name="longRadix" value="10" />
+    <property name="maxStringLength" value="64" />
+    <property name="nocast" value="false" />
+    <property name="noclass" value="false" />
+    <property name="nocode" value="false" />
+    <property name="noconv" value="false" />
+    <property name="noctor" value="false" />
+    <property name="nodos" value="false" />
+    <property name="nofd" value="false" />
+    <property name="noinner" value="false" />
+    <property name="nolvt" value="false" />
+    <property name="nonlb" value="false" />
+    <property name="outputDirectory" value="" />
+    <property name="packFields" value="3" />
+    <property name="packImports" value="7" />
+    <property name="prefixNumericalClasses" value="_cls" />
+    <property name="prefixNumericalFields" value="_fld" />
+    <property name="prefixNumericalLocals" value="_lcl" />
+    <property name="prefixNumericalMethods" value="_mth" />
+    <property name="prefixNumericalParameters" value="_prm" />
+    <property name="prefixUnusedExceptions" value="_ex" />
+    <property name="readonly" value="false" />
+    <property name="safe" value="false" />
+    <property name="sort" value="false" />
+    <property name="spaceAfterKeyword" value="false" />
+    <property name="splitStringsAtNewline" value="false" />
+    <property name="useTabs" value="false" />
+  </component>
+</project>

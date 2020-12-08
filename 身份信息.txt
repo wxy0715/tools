@@ -1,0 +1,44 @@
+//linux宝塔和数据库
+Bt-Panel: http://47.101.130.87:8989/59e79d7b/
+username:wxy0715
+password: wxy0715..
+手机号:18955007261
+密码:qqwang0715
+
+四级@qq123123
+
+华为认证
+Mr.W2357191256
+qqwxy0715..
+银行卡农行622848 3159209045674
+阿里云 
+w2357191256 手机号18955007261
+Qq123123 wxy0715.. 
+谷歌 qq2357191256密码qqwang0715..
+微软密码qqwang0715..
+Github? 2357191256? 密码#
+
+Bt-Panel-URL: http://47.101.130.87:8888/49a256db
+username: wxy0715
+password: d590456f
+
+Jrebel
+https://jrebel.qekang.com/a85c3253-ead9-45cb-8d9d-098f46ea6f40
+
+产品
+blj https://39.97.123.62/blj
+
+
+#阿里云 OSS
+#不同的服务器，地址不同
+aliyun.oss.file.endpoint=oss-cn-beijing.aliyuncs.com
+aliyun.oss.file.keyid=LTAI4G67e5qHuytoUc94MXBa
+aliyun.oss.file.keysecret=pNc2ND7C7BVsyHm9AmU9isTGuvKFeT
+#bucket可以在控制台创建，也可以使用java代码创建
+aliyun.oss.file.bucketname=edu-springboot
+
+#服务器
+47.101.130.87:5555 健康档案管理
+47.101.130.87:5556:后台管理
+47.101.130.87:5560:毕设(5557-java后台端口)
+www.cjree.cn 可道云

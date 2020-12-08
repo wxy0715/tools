@@ -1,0 +1,20 @@
+
+dsquid:S11922"HDefine a constant instead of duplicating this literal "success" 6 times.(‹ƒ øÿÿÿÿ
+fsquid:S00100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ûèŒ
+Zsquid:S3752M">Add a "method" parameter to this "@RequestMapping" annotation.(·°»ëøÿÿÿÿ
+isquid:S00117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š«õŠ
+^squid:S11261"BReplace this if-then-else statement by a single method invocation.(‘çŒ¡üÿÿÿÿ
+O
+squid:S106>"9Replace this use of System.out or System.err by a logger.(·§©ñ
+Zsquid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(ÕÖåÀúÿÿÿÿ
+ksquid:S00100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Å–Öûÿÿÿÿ
+usquid:S1488b"YImmediately return this expression instead of assigning it to the temporary variable "r".(ýåžÞøÿÿÿÿ
+^squid:S1126W"BReplace this if-then-else statement by a single method invocation.(‘çŒ¡üÿÿÿÿ
+^squid:S1126E"BReplace this if-then-else statement by a single method invocation.(‘çŒ¡üÿÿÿÿ
+ksquid:S00100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§”™—üÿÿÿÿ
+Usquid:S3752_">Add a "method" parameter to this "@RequestMapping" annotation.(Þ‹´Ï
+Œsquid:S1319a"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(§”™—üÿÿÿÿ
+Zsquid:S3752+">Add a "method" parameter to this "@RequestMapping" annotation.(À‡¦øÿÿÿÿ
+fsquid:S00100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è‹ÇÎ
+nsquid:S00117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯É‚¥øÿÿÿÿ
+Usquid:S37529">Add a "method" parameter to this "@RequestMapping" annotation.(á”™§

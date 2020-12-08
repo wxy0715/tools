@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="A">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/A.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/C.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/B.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/binPoms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/license.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

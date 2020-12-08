@@ -1,0 +1,10 @@
+
+fsquid:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÂÉ¬İ
+gsquid:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ÇÈ‹³
+®%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(şã‡şÿÿÿÿ
+Xsquid:S2118"AMake the "java.util.List" class "Serializable" or don't write it.(×“ƒÇ
+®%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(ÕŸˆùÿÿÿÿ
+T
+squid:S106#"9Replace this use of System.out or System.err by a logger.(íö—ïÿÿÿÿÿ
+®%squid:RedundantThrowsDeclarationCheck'"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(ŞÒ‡ãüÿÿÿÿ
+gsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(¤ê°úÿÿÿÿ

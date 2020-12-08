@@ -1,0 +1,41 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(İÿ°ÿÿÿÿÿ
+?squid:S11489"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+O
+squid:S106)"9Replace this use of System.out or System.err by a logger.(£·®
+T
+squid:S106+"9Replace this use of System.out or System.err by a logger.(Úú°Êûÿÿÿÿ
+]squid:S2259}"FA "NullPointerException" could be thrown; "perClazz" is nullable here.(¾ÂÊø
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÒâØ¥ÿÿÿÿÿ
+]squid:S2259<"FA "NullPointerException" could be thrown; "perClazz" is nullable here.(¾à
+]squid:S2259X"FA "NullPointerException" could be thrown; "perClazz" is nullable here.(ñøìê
+?squid:S1148e"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+T
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(íÙÙ³ùÿÿÿÿ
+ksquid:S1192"ODefine a constant instead of duplicating this literal "reflect.Person" 7 times.(ÜÔâÿÿÿÿÿÿ
+T
+squid:S106l"9Replace this use of System.out or System.err by a logger.(¡Ø›Ìøÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+T
+squid:S106j"9Replace this use of System.out or System.err by a logger.(äîÓÕşÿÿÿÿ
+]squid:S2259J"FA "NullPointerException" could be thrown; "perClazz" is nullable here.(–±úç
+\squid:S2259'"FA "NullPointerException" could be thrown; "perClazz" is nullable here.(ÖE
+N
+squid:S106K"9Replace this use of System.out or System.err by a logger.(×ŒßP
+?squid:S1148H"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+O
+squid:S106p"9Replace this use of System.out or System.err by a logger.(§è»
+bsquid:S2259h"FA "NullPointerException" could be thrown; "perClazz" is nullable here.(ñËöşÿÿÿÿ
+csquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(Ì“ıê
+T
+squid:S106/"9Replace this use of System.out or System.err by a logger.(‡»åâüÿÿÿÿ
+?squid:S1148$"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148V"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(üºğÜ
+T
+squid:S106>"9Replace this use of System.out or System.err by a logger.(’ªÂùÿÿÿÿ
+Vsquid:S2133"@Remove this object instantiation and use "Person.class" instead.(°İô)

@@ -1,0 +1,21 @@
+server:
+  port: 5561
+  servlet:
+    context-path: /
+  tomcat:
+    uri-encoding: utf-8
+
+
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://47.101.130.87:3306/wxy0715?serverTimezone=GMT
+    username: wxy0715
+    password: wxy0715
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    thymeleaf:
+         cache: false
