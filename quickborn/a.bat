@@ -1,1 +1,0 @@
-java -jar C:\Users\Administrator\Desktop\后端笔记\ssm模板\Mybatis配置模板\quickborn\mybatis-generator-core-1.3.1.jar -configfile C:\Users\Administrator\Desktop\后端笔记\ssm模板\Mybatis配置模板\quickborn\generatorConfig.xml -overwrite
