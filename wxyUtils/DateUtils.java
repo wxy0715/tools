@@ -100,4 +100,26 @@ public class DateUtils {
 		return null;
 
 	}
+	
+		/**判断是否在24小时限制时间段内 **/
+	public static boolean validTime(User user) throws ParseException {
+		//自定义时间为了计算时间大小
+		String valid_time_start ="2020-01-01 " + user.getValid_time_start() + ":00";
+		String valid_time_end ="2020-01-01 " + user.getValid_time_end() + ":00";
+		SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+		Date format = simpleDateFormat.parse(valid_time_start);
+		Date format1 = simpleDateFormat.parse(valid_time_end);
+		Calendar calendar = Calendar.getInstance();
+		int hour=calendar.get(Calendar.HOUR_OF_DAY);
+		int minutes=calendar.get(Calendar.MINUTE);
+		String now ="2020-01-01 " +  hour+":"+minutes + ":00";
+		Date nowTime = simpleDateFormat.parse(now);
+		//判断开始时间是否大于结束时间
+		if (format1.getTime() < format.getTime()) {
+			if (nowTime.getTime() >= format.getTime() || nowTime.getTime() <= format1.getTime()) {
+				return true;
+			}
+		}
+		return nowTime.getTime() >= format.getTime() && nowTime.getTime() <= format1.getTime();
+	}
 }

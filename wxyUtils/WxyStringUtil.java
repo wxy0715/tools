@@ -227,4 +227,36 @@ public class WxyStringUtil {
 		}
 	}
 
+	/** windows获取操作系统的存储位置 **/
+	public static String getWindowDisk() {
+		File[] disks = File.listRoots();
+		if (disks.length == 0) {
+			throw new BusinessException(BaseResponseCode.OS_ERROR);
+		}
+		for (File file: disks) {
+			if (file.canWrite() && file.canRead() && file.canExecute()) {
+				return file.getAbsolutePath()+"\\";
+			}
+		}
+		throw new BusinessException(BaseResponseCode.OS_ERROR);
+	}
+
+	/** linux获取文件下载位置**/
+	public static String getLinuxDisk() {
+		File file = new File("/tmp");
+		if (!file.exists()) {
+			file.mkdir();
+		}
+		return "/tmp/";
+	}
+
+	/** 获取操作系统的临时下载目录 **/
+	public static String getDirectory(){
+		String os_type = System.getProperty("os.name");
+		if (os_type.toLowerCase().contains("win")){
+			return getWindowDisk();
+		} else {
+			return getLinuxDisk();
+		}
+	}
 }
